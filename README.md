@@ -13,6 +13,6 @@ Data set diunduh dalam bentuk pdf yang kemudian akan dilakukan scraping untuk me
 # Cara Penggunaan
 Lakukan Git pada repository ini
 
-git clone https://github.com/azrazzati/Dataset-Narkotika_192_107.
+git clone https://github.com/ElisaFitriNst/Dataset-Narkotika_192_107
 
 Ekstrak file yang di zip untuk mendapatkan dataset putusan Pengadilan Negeri Bireuen berbentuk pdf.
